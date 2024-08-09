@@ -1,4 +1,6 @@
 # 840.-Magic-Squares-In-Grid-in-LeetCode
+
+
 class Solution:
     def numMagicSquaresInside(self, grid: List[List[int]]) -> int:
         def isMagic(i, j):
